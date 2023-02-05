@@ -6,6 +6,6 @@ This is just a test!
 
 Some more description..
 
-## Local Devlopement
+## Instructions
 
-1. Open index.html on your web browser.
+1. Open the index.html file on your web browser.
